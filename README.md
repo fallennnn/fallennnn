@@ -42,7 +42,7 @@
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fallennnn&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fallennnn&hide_border=true](https://streak-stats.demolab.com?user=fallennnn&theme=dark" />
 </details>
  
 <details>	
