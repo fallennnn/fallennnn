@@ -34,15 +34,15 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fallennnn&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallennnn&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="![fallennnn's Stats](https://github-readme-stats.vercel.app/api?username=fallennnn&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)" />
+  <img height="180em" src="![fallennnn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fallennnn&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fallennnn&hide_border=true](https://streak-stats.demolab.com?user=fallennnn&theme=dark" />
+  <img height="180em" src="![fallennnn's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fallennnn&theme=tokyonight&hide_border=false)" />
 </details>
  
 <details>	
