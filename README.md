@@ -6,16 +6,18 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/sebutajadono/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/si_fallen)
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=fallennnn&color=orange)
+### Thank you for visiting my profile! &nbsp; ![](https://komarev.com/ghpvc/?username=fallennnn&color=orange)
 
-### Talking about Personal Stuffs:
+<img align="right" height="250" width="375" alt="" src="https://www.edureka.co/blog/wp-content/uploads/2018/08/Insurance-Leadspace-Aniamted.gif" />
+
+### Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently learning Data Visualization, Machine Learning, Python.
 - 🚀 &nbsp; I’m currently learning to become Data Scientist.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/fallennnn).
 - 📫 &nbsp; How to reach me: fallensky86dxp@gmail.com.
 
-### My Personal Favorites:
+### Personal Favorites:
 
 - 🎶 &nbsp; I love to hear speed up songs and stocisim vibes.
 - 📰 &nbsp; Love to read manga, Vinland Saga being most favorite.
