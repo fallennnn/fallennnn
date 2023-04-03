@@ -75,6 +75,6 @@
 
 <div align="center">
 
-### I have no enemies at all. ~Thorfinn
+### I decide my own life with my own rule.
 
 </div>
