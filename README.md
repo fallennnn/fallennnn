@@ -13,7 +13,7 @@
 ### Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently learning Data Visualization, Machine Learning, Python.
-- 🚀 &nbsp; I’m currently learning to become Data Scientist.
+- 🚀 &nbsp; I’m currently learning to become Data Analyst.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/fallennnn).
 - 📫 &nbsp; How to reach me: fallensky86dxp@gmail.com.
 
